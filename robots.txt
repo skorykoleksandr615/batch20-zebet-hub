@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zebet.online/sitemap.xml
